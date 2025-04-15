@@ -6,11 +6,7 @@ Features
 •	Data Preprocessing: Text cleaning and feature extraction for question pairs.
 •	Feature Extraction: Utilizes advanced NLP techniques such as TF-IDF, word embeddings (GloVe), and similarity measures.
 •	Modeling: Implements various machine learning models such as:
-o	BERT (Bidirectional Encoder Representations from Transformers)
-o	LSTM (Long Short-Term Memory) networks
-o	Logistic Regression
-o	Linear SVM
-o	XGBoost
+	BERT (Bidirectional Encoder Representations from Transformers), LSTM (Long Short-Term Memory) networks, Logistic Regression, Linear SVM, XGBoost
 
 •	Evaluation: The models are evaluated using accuracy, precision, recall, F1-score, and log loss.
 
